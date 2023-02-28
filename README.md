@@ -1,6 +1,7 @@
 # Kamilly Lima
        🤍
+* 2006
 * União da Vitória - PR
-* 16y
 * Instituto Federal PR
 * Técnica em informática 3/3
+
